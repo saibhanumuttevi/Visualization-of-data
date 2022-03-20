@@ -1,0 +1,81 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block bar%}
+<div class="d-flex px-5 justify-content-between ">
+    <div class="text-center">
+        <div class="d-flex justify-content-center">
+            <a class="btn btn-outline-info"  href="/filters">Filters</a>
+        </div>
+    </div>
+    <div class="flex-row-reverse pe-5 bd-highlight">
+        <a type="button" class="btn btn-outline-dark" style="position: fixed;" href="javascript:location.reload(true)">Reset</a>
+    </div>
+</div>
+{% endblock %}
+
+{% block chart %}
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c0">
+      <div id="chart" class="chart shadow-lg p-2 m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn0 form-group" type="button" id="button0">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c1">
+      <div id="chart1" class="chart shadow-lg p-2 m-2 bg-body rounded-3" ></div>
+    </div>
+    <div class="btn1" type="button" id="button1">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c2">
+      <div id="chart2" class="chart shadow-lg  m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn2" type="button" id="button2">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c3">
+      <div id="chart3" class="chart shadow-lg p-2 m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn3" type="button" id="button3">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c4">
+      <div id="chart4" class="chart shadow-lg p-2 m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn4" type="button" id="button4">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c5">
+      <div id="chart5" class="chart shadow-lg p-2 m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn5" type="button" id="button5">
+    </div>
+  </div>
+  
+  <div class="text-center">
+    <div class="d-flex justify-content-center" id="c6">
+      <div id="chart6" class="chart shadow-lg p-2 m-2 bg-body rounded-3" >
+      </div>
+    </div>
+    <div class="btn6" type="button" id="button6">
+    </div>
+  </div>
+
+<script src="{% static 'js/main.js' %}"></script>
+{% endblock %} 

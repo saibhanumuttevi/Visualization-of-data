@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block upload %}
+<form method="post"  enctype="multipart/form-data" class="h-100">
+    {% csrf_token %}
+
+  
+  
+    <div class="text-center align-middle ">  
+            <label class="fs-3  font-monospace m-4" >Upload your file here</label>
+            <input type="file" name="document" accept="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, application/vnd.ms-excel" class="shadow-lg ">
+            <button type="submit" id="submit"  value="upload" data-rel="back" class="btn d-grid gap-2 col-4 mx-auto mt-2 btn-dark">Submit</button>
+    </div>
+<br>
+<br>
+
+
+{% for msg in messages %}
+  <div class="text-center">
+    <div class=" alert alert-success alert-dismissible fade show" role="alert" id="success">
+      <strong>{{msg}} </strong>
+    </div>
+  </div>
+<a>{{ popup}} </a>
+{% endfor%}
+
+    <div class="text-center">
+      <div class="d-flex justify-content-center">
+        <a class="btn btn-info m-2"  href="/visualization">Vizualisation</a>
+        <a class="btn btn-info m-2"  href="/filters">Filters</a>
+      </div>
+    </div>
+</form>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <script>
+    var success= document.querySelector(".d-none")
+    var button = document.querySelector("#submit")
+    button.addEventListener("click", function(){
+      success.classList.remove("d-none")
+    })
+  </script>
+{% endblock  %}

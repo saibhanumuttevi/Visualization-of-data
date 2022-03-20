@@ -1,0 +1,120 @@
+Msd,Set,User,Target,Location,Result,Subsystem Failed,Year of Delivery,Year of Manufacture,Remarks,Pre- Test,Testing Year
+1,1,IA,Banshee,Hyderabad,TechnicalHit,No failure,2007,2007,No,Passed,2012
+2,1,IAF,Lakshya,Hyderabad,TechnicalHit,No failure,2007,2007,No,Failed,2012
+3,1,IAF,Parabarrel,Hyderabad,Failure,Propulsion,2007,2007,Developed by ABC,Passed,2012
+4,1,IA,Parachute,Hyderabad,Failure,ACT,2007,2007,Developed by XYZ,Passed,2012
+5,1,IA,Banshee,Delhi,Failure,ACT,2007,2007,Developed by XYZ,Passed,2012
+6,1,IAF,Banshee,Delhi,TechnicalHit,No failure,2007,2007,No,Passed,2012
+7,1,IA,Lakshya,Delhi,TechnicalHit,No failure,2007,2007,No,Passed,2012
+8,1,IAF,Parabarrel,Delhi,Failure,ACT,2007,2007,Developed by XYZ,Failed,2012
+9,1,IA,Banshee,Delhi,TechnicalHit,No failure,2007,2007,No,Passed,2012
+10,1,IAF,Lakshya,Hyderabad,TechnicalHit,No failure,2007,2007,No,Passed,2012
+11,2,IA,Parabarrel,Hyderabad,Failure,SCU,2007,2007,Developed by POI,Passed,2012
+12,2,IA,Parachute,Hyderabad,TechnicalHit,No failure,2007,2007,No,Passed,2012
+13,2,IAF,Parabarrel,Hyderabad,Failure,Propulsion,2007,2007,Developed by ABC,Passed,2012
+14,2,IAF,Lakshya,Hyderabad,TechnicalHit,No failure,2007,2007,No,Passed,2012
+15,2,IA,Parachute,Hyderabad,TechnicalHit,No failure,2007,2007,No,Passed,2013
+16,2,IA,Parachute,Hyderabad,TechnicalHit,No failure,2010,2009,No,Passed,2013
+17,2,IAF,Lakshya,Hyderabad,TechnicalHit,No failure,2010,2009,No,Passed,2013
+18,2,IA,Banshee,Hyderabad,Failure,ACT,2010,2009,Developed by XYZ,Passed,2013
+19,3,IAF,Parabarrel,Hyderabad,TechnicalHit,No failure,2010,2009,No,Passed,2013
+20,3,IAF,Banshee,Hyderabad,TechnicalHit,No failure,2010,2009,No,Passed,2013
+21,3,IAF,Banshee,Hyderabad,Failure,Propulsion,2010,2009,Developed by PQR,Failed,2013
+22,3,IA,Lakshya,Bangalore,Failure,ACT,2010,2009,Developed by XYZ,Failed,2013
+23,3,IA,Parabarrel,Bangalore,Failure,ACT,2010,2009,Developed by XYZ,Failed,2013
+24,3,IAF,Banshee,Bangalore,Failure,ACT,2010,2009,Developed by XYZ,Passed,2013
+25,3,IA,Lakshya,Bangalore,TechnicalHit,No failure,2005,2005,No,Passed,2013
+26,3,IAF,Banshee,Bangalore,TechnicalHit,No failure,2005,2005,No,Passed,2013
+27,3,IAF,Banshee,Bangalore,TechnicalHit,No failure,2005,2005,No,Passed,2011
+28,3,IAF,Lakshya,Bangalore,TechnicalHit,No failure,2005,2005,No,Passed,2011
+29,3,IA,Parabarrel,Chennai,TechnicalHit,No failure,2005,2005,No,Passed,2011
+30,4,IA,Banshee,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+31,4,IAF,Banshee,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+32,4,IA,Lakshya,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+33,4,IAF,Parabarrel,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+34,4,IA,Banshee,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+35,4,IAF,Banshee,Chennai,Failure,SCU,2005,2004,Developed by POI,Passed,2011
+36,4,IA,Lakshya,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+37,4,IAF,Parabarrel,Chennai,TechnicalHit,No failure,2005,2004,No,Passed,2011
+38,4,IA,Banshee,Kolkata,TechnicalHit,No failure,2005,2004,No,Passed,2011
+39,4,IAF,Banshee,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+40,5,IAF,Lakshya,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+41,5,IA,Parabarrel,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+42,5,IA,Banshee,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+43,5,IAF,Lakshya,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+44,5,IA,Banshee,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+45,5,IAF,Banshee,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+46,5,IAF,Lakshya,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+47,5,IA,Parabarrel,Kolkata,TechnicalHit,No failure,2015,2014,No,Passed,2015
+48,6,IA,Banshee,Chennai,TechnicalHit,No failure,2015,2014,No,Passed,2015
+49,6,IAF,Lakshya,Chennai,Failure,SCU,2015,2014,Developed by POI,Passed,2015
+50,6,IA,Parabarrel,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+51,6,IAF,Banshee,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+52,6,IAF,Banshee,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+53,6,IA,Lakshya,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+54,6,IA,Parabarrel,Chennai,Failure,Propulsion,2012,2012,Developed by ABC,Failed,2012
+55,6,IAF,Banshee,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+56,6,IA,Lakshya,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+57,7,IAF,Banshee,Chennai,TechnicalHit,No failure,2012,2012,No,Passed,2012
+58,7,IA,Banshee,Bangalore,TechnicalHit,No failure,2012,2012,No,Passed,2012
+59,7,IAF,Lakshya,Bangalore,TechnicalHit,No failure,2012,2012,No,Passed,2012
+60,7,IAF,Parabarrel,Bangalore,TechnicalHit,No failure,2012,2012,No,Passed,2012
+61,7,IA,Banshee,Bangalore,TechnicalHit,No failure,2018,2018,No,Passed,2018
+62,7,IA,Banshee,Bangalore,TechnicalHit,No failure,2018,2018,No,Passed,2018
+63,7,IAF,Lakshya,Bangalore,Failure,BATTERY,2018,2018,Developed by FGH,Passed,2018
+64,7,IA,Parabarrel,Bangalore,Failure,BATTERY,2018,2018,Developed by FGH,Passed,2018
+65,7,IAF,Banshee,Bangalore,Failure,BATTERY,2018,2018,Developed by FGH,Passed,2018
+66,7,IA,Lakshya,Bangalore,Failure,BATTERY,2018,2018,Developed by FGH,Failed,2018
+67,7,IAF,Parabarrel,Bangalore,Failure,BATTERY,2018,2018,Developed by FGH,Passed,2018
+68,8,IA,Parachute,Hyderabad,TechnicalHit,No failure,2018,2018,No,Passed,2018
+69,8,IAF,Parabarrel,Hyderabad,TechnicalHit,No failure,2018,2018,No,Passed,2018
+70,8,IAF,Parachute,Hyderabad,TechnicalHit,No failure,2018,2018,No,Passed,2018
+71,8,IA,Banshee,Hyderabad,TechnicalHit,No failure,2014,2014,No,Passed,2014
+72,8,IA,Banshee,Hyderabad,TechnicalHit,No failure,2014,2014,No,Passed,2014
+73,8,IAF,Lakshya,Hyderabad,TechnicalHit,No failure,2014,2014,No,Passed,2014
+74,8,IA,Parabarrel,Hyderabad,TechnicalHit,No failure,2014,2014,No,Passed,2014
+75,8,IAF,Banshee,Hyderabad,TechnicalHit,No failure,2014,2014,No,Passed,2014
+76,8,IA,Lakshya,Bangalore,TechnicalHit,No failure,2014,2014,No,Passed,2014
+77,8,IA,Parabarrel,Bangalore,TechnicalHit,No failure,2014,2014,No,Passed,2014
+78,8,IAF,Parachute,Bangalore,TechnicalHit,No failure,2014,2014,No,Passed,2014
+79,9,IAF,Banshee,Bangalore,TechnicalHit,No failure,2014,2014,No,Passed,2014
+80,9,IA,Banshee,Bangalore,Failure,ACT,2014,2014,Developed by XYZ,Passed,2014
+81,9,IA,Lakshya,Bangalore,Failure,ACT,2014,2014,Developed by XYZ,Passed,2014
+82,9,IAF,Parabarrel,Mumbai,Failure,ACT,2014,2014,Developed by XYZ,Passed,2014
+83,9,IAF,Banshee,Mumbai,Failure,ACT,2014,2014,Developed by XYZ,Passed,2014
+84,9,IAF,Lakshya,Mumbai,Failure,ACT,2014,2014,Developed by XYZ,Passed,2014
+85,9,IA,Parabarrel,Mumbai,TechnicalHit,No failure,2014,2014,No,Passed,2014
+86,9,IA,Banshee,Mumbai,TechnicalHit,No failure,2014,2014,No,Passed,2014
+87,9,IAF,Banshee,Mumbai,TechnicalHit,No failure,2014,2014,No,Passed,2014
+88,10,IA,Lakshya,Mumbai,TechnicalHit,No failure,2009,2009,No,Passed,2009
+89,10,IAF,Parabarrel,Mumbai,TechnicalHit,No failure,2009,2009,No,Failed,2009
+90,10,IAF,Banshee,Mumbai,Failure,ACT,2009,2009,Developed by XYZ,Failed,2009
+91,10,IA,Banshee,Mumbai,Failure,Propulsion,2009,2009,Developed by ABC,Failed,2009
+92,10,IA,Lakshya,Mumbai,Failure,ACT,2009,2009,Developed by XYZ,Passed,2009
+93,10,IAF,Parabarrel,Mumbai,TechnicalHit,No failure,2009,2009,No,Passed,2009
+94,10,IA,Banshee,Chennai,TechnicalHit,No failure,2009,2009,No,Passed,2009
+95,10,IAF,Lakshya,Chennai,TechnicalHit,No failure,2019,2017,No,Passed,2018
+96,10,IAF,Parabarrel,Chennai,TechnicalHit,No failure,2019,2017,No,Passed,2018
+97,10,IA,Parachute,Chennai,Failure,ACT,2019,2017,Developed by QWE,Passed,2018
+98,10,IA,Banshee,Chennai,Failure,Propulsion,2019,2017,Developed by PQR,Passed,2018
+99,10,IAF,Banshee,Chennai,Failure,ACT,2019,2017,Developed by XYZ,Passed,2018
+100,10,IA,Lakshya,Chennai,TechnicalHit,No failure,2019,2017,No,Passed,2018
+101,10,IAF,Parabarrel,Chennai,TechnicalHit,No failure,2017,2017,No,Passed,2018
+102,10,IA,Banshee,Mumbai,Failure,ACT,2016,2016,Developed by XYZ,Failed,2018
+103,11,IA,Banshee,Mumbai,Failure,ACT,2017,2017,Developed by XYZ,Failed,2018
+104,11,IA,Banshee,Mumbai,Failure,ACT,2017,2017,Developed by XYZ,Passed,2018
+105,11,IA,Banshee,Mumbai,TechnicalHit,No failure,2017,2017,No,Passed,2018
+106,11,IA,Lakshya,Mumbai,Failure,Propulsion,2017,2017,Developed by ABC,Passed,2018
+107,11,IA,Lakshya,Mumbai,Failure,ACT,2017,2017,Developed by XYZ,Passed,2018
+108,11,IA,Lakshya,Mumbai,Failure,ACT,2020,2020,Developed by XYZ,Passed,2020
+109,11,IA,Lakshya,Mumbai,TechnicalHit,No failure,2020,2020,No,Failed,2020
+110,11,IAF,Lakshya,Mumbai,Failure,ACT,2020,2020,Developed by XYZ,Passed,2020
+111,11,IAF,Lakshya,Mumbai,Failure,ACT,2020,2020,Developed by XYZ,Passed,2020
+112,12,IAF,Parachute,Kolkata,TechnicalHit,No failure,2020,2020,No,Failed,2020
+113,12,IAF,Parachute,Kolkata,Failure,ACT,2013,2013,Developed by XYZ,Passed,2013
+114,12,IAF,Parachute,Kolkata,Failure,ACT,2013,2013,Developed by XYZ,Passed,2013
+115,12,IAF,Parachute,Kolkata,Failure,ACT,2013,2013,Developed by PQR,Passed,2013
+116,12,IAF,Parachute,Kolkata,TechnicalHit,No failure,2013,2013,No,Passed,2013
+117,12,IAF,Parachute,Kolkata,Failure,Propulsion,2013,2013,Developed by ABC,Passed,2013
+118,12,IAF,Parachute,Kolkata,Failure,Propulsion,2013,2013,Developed by ABC,Passed,2013
+119,12,IAF,Parachute,Kolkata,Failure,Propulsion,2013,2013,Developed by PQR,Passed,2013
