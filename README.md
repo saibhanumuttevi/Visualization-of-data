@@ -1,6 +1,12 @@
-# virtualization of data
+# Visualization of Data
  
-This project simply changes a excel data to an nice and good looking graphical view
+This project works on the principles of Data Analytics and Visualization.
+
+Project Modules include,
+ Data Intake
+ Data Management
+ Data Analytics and 
+ Visualization
 
 Running:
 for running this just run the .bat file available
