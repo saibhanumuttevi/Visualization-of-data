@@ -9,4 +9,4 @@ Project Modules include,
  Visualization
 
 Running:
-for running this just run the .bat file available
+  Run run.bat to start the Program
